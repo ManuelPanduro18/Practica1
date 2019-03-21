@@ -1,7 +1,7 @@
 package com.tecsup.lab01.model;
 
 public class User {
-	String nombre;
-	String apellidos;
-	int edad;
+	static String nombre;
+	static String apellidos;
+	static int edad;
 }
